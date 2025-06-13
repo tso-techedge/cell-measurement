@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/71e68b5d-d26c-4464-a233-c913b9a396b2)
 
+![image](https://github.com/user-attachments/assets/fde5d299-ab89-4540-a95e-8c1bb1074eed)
+
+
 A collection of Python scripts for analyzing and measuring cell images using OpenCV.
 
 ## Requirements
@@ -50,6 +53,8 @@ python gray_measure.py
 python gray_mesuare_pixcel_label.py
 # or
 python gray_mesuare_pixcel_label_reduce_noise.py
+# or
+python measure_single_particle.py
 ```
 
 3. Press any key to close the image window
